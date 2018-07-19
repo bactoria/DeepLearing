@@ -1,5 +1,5 @@
 
-아래 내용은 kaggle 커널 [Introduction to CNN Keras - 0.997 (top 6%) - Yassine Ghouzam](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6) 내용입니다.
+아래 소스코드는 kaggle 커널 [Introduction to CNN Keras - 0.997 (top 6%) - Yassine Ghouzam](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6) 내용입니다.
 
 ## Digit Reconizer
 
