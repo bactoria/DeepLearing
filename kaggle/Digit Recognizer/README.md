@@ -187,7 +187,10 @@ validation에 대해서는 [여기]() 잘 정리되어있다.
 
 [CNN Layer Talk - 김태영님 블로그](https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/)에 너무 잘 설명 되어있다.
 
+**CNN 모델 (아래 코드와 약간 차이있음)**
+
 ![](assets/markdown-img-paste-2018071919285122.png)
+이미지 출처 : http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
 
 ```python
 model = Sequential()
