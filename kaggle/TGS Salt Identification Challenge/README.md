@@ -21,3 +21,15 @@ To create the most accurate seismic images and 3D renderings, TGS (the world’s
 지진 데이터는 깔끔하다. 당신은 초음파로 생각할 수도 있겠지만, 지진데이터느 보통 1m~100m의 파장을 가진다.
 
 소금의 경우 혼란스럽다?
+
+---
+
+**Train**
+
+| input | output     |
+| :------------- | :------------- |
+| ![](assets/markdown-img-paste-2018072417275153.png)| ![](assets/markdown-img-paste-20180724172816449.png) |
+
+input의 사진과, output의 사진이 주어진다.
+
+![](assets/markdown-img-paste-20180724173139199.png)
