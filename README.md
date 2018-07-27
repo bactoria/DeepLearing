@@ -24,8 +24,10 @@
 - [파라미터의 개수는 어떻게 구하나요 ? - StackOverflow](https://stackoverflow.com/questions/28232235/how-to-calculate-the-number-of-parameters-of-convolutional-neural-networks)
 
 **CS231n CNN for Visual Recognition 한글번역 - AI Korea**
+
 - [CNN: 구조, Convolution / Pooling Layers](http://aikorea.org/cs231n/convolutional-networks/)
 
+- [이미지 분류에 kNN ?](http://aikorea.org/cs231n/classification/)
 
 &nbsp;
 
