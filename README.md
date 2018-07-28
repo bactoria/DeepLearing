@@ -5,10 +5,11 @@
 
 - [CNN Layer Talk - 김태영님 블로그](https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/)
 
-
 - [CNN, Convolution Neural Network 요약 - 김태완님 블로그](http://taewan.kim/post/cnn/) (~~180725~~ 파라미터 개수 구하는 부분은 수정 필요함 )
 
 - [브라우저에서 ConvNet의 구조를 바꿔보고 결과를 실시간으로 보기 - Stanford](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
+
+- [Neural Network는 이미지를 어떻게 이해하는가? - distill](https://distill.pub/2017/feature-visualization/)
 
 **Kaggle**
 - [kaggle - Digit Recognizer](./kaggle/Digit%20Recognizer/README.md)
