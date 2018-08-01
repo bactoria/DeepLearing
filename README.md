@@ -20,10 +20,12 @@
 
 &nbsp;
 
-**Paper**
+**Paper (한글번역)**
 
 - [U-Net: Convolutional Networks for Biomedical
-Image Segmentation, 18 May 2015 (한글번역) - 모두의연구소](https://modulabs-biomedical.github.io/U_Net)
+Image Segmentation, 18 May 2015 - 모두의연구소](https://modulabs-biomedical.github.io/U_Net)
+
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, 11 Feb 2015 (요약) - 김범수님 블로그](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/)
 
 &nbsp;
 
@@ -31,7 +33,11 @@ Image Segmentation, 18 May 2015 (한글번역) - 모두의연구소](https://mod
 
 - [Max Pooling vs Everage Pooling  - Quora](https://www.quora.com/What-is-the-benefit-of-using-average-pooling-rather-than-max-pooling)
 
-- [파라미터의 개수는 어떻게 구하나요 ? - StackOverflow](https://stackoverflow.com/questions/28232235/how-to-calculate-the-number-of-parameters-of-convolutional-neural-networks)
+- [parameter 개수는 어떻게 구하나요 ? - StackOverflow](https://stackoverflow.com/questions/28232235/how-to-calculate-the-number-of-parameters-of-convolutional-neural-networks)
+
+**etc**
+
+- [Batch Normalization - 라온피플](http://blog.naver.com/PostView.nhn?blogId=laonple&logNo=220808903260&categoryNo=22&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)
 
 &nbsp;
 
