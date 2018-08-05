@@ -37,6 +37,10 @@ Image Segmentation, 18 May 2015 - 모두의연구소](https://modulabs-biomedica
 
 &nbsp;
 
+**Super-Resolution**
+
+- [Enhanced Deep Residual Networks for Single Image Super-Resolution (video)](https://youtu.be/OMIqkn2DCUk)
+
 **etc**
 
 - [Batch Normalization - 라온피플](http://blog.naver.com/PostView.nhn?blogId=laonple&logNo=220808903260&categoryNo=22&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)
