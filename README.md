@@ -35,9 +35,8 @@ Image Segmentation, 18 May 2015 - 모두의연구소](https://modulabs-biomedica
 
 - [parameter 개수는 어떻게 구하나요 ? - StackOverflow](https://stackoverflow.com/questions/28232235/how-to-calculate-the-number-of-parameters-of-convolutional-neural-networks)
 
-
-
 &nbsp;
+
 **Image Segmentation**
 
 - [From R-CNN to Mask R-CNN - 텐서플로우 블로그](https://tensorflow.blog/2017/06/05/from-r-cnn-to-mask-r-cnn/)
@@ -62,6 +61,10 @@ Image Segmentation, 18 May 2015 - 모두의연구소](https://modulabs-biomedica
 - [Stanford CS231n (2017) 한글자막](https://github.com/insurgent92/CS231N_17_KOR_SUB)
 
 &nbsp;
+
+**Style Transfer**
+
+- [PR-007: Deep Photo Style Transfer - 김승일님(video)](https://youtu.be/YF6nLVDlznE)
 
 **CS231n CNN for Visual Recognition 한글번역 - AI Korea**
 
