@@ -1,7 +1,7 @@
 
 - [딥러닝 30가지 적용 사례 - 월급쟁이](https://brunch.co.kr/@itschloe1/23)
 
-## CNN
+# CNN
 
 - [CNN Layer Talk - 김태영님 블로그](https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/)
 
@@ -66,6 +66,8 @@ Image Segmentation, 18 May 2015 - 모두의연구소](https://modulabs-biomedica
 
 - [PR-007: Deep Photo Style Transfer - 김승일님(video)](https://youtu.be/YF6nLVDlznE)
 
+&nbsp;
+
 **CS231n CNN for Visual Recognition 한글번역 - AI Korea**
 
 - [CNN: 구조, Convolution / Pooling Layers](http://aikorea.org/cs231n/convolutional-networks/)
@@ -78,3 +80,14 @@ Image Segmentation, 18 May 2015 - 모두의연구소](https://modulabs-biomedica
 ### Object Detection
 
 - [Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD - ANKIT SACHAN](http://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+# RNN
+
+- [쉽게 이해하는 RNN & LSTM - 엄태웅님(a.k.a. 테리) (video)](https://youtu.be/SoNtAjxA3Jo) / [정리한 것](./note/쉽게%20이해하는%20RNN%20&%20LSTM%20-%20엄태웅님(a.k.a.%20테리)/README.md)
+
+- [RNN & LSTM 역전파 구하기 - ratsgo's blog](https://ratsgo.github.io/natural%20language%20processing/2017/03/09/rnnlstm/)
