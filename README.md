@@ -37,7 +37,7 @@ Image Segmentation, 18 May 2015 - 모두의연구소](https://modulabs-biomedica
 
 &nbsp;
 
-**Image Segmentation**
+### Image Segmentation
 
 - [From R-CNN to Mask R-CNN - 텐서플로우 블로그](https://tensorflow.blog/2017/06/05/from-r-cnn-to-mask-r-cnn/)
 
@@ -46,29 +46,32 @@ Image Segmentation, 18 May 2015 - 모두의연구소](https://modulabs-biomedica
 
 &nbsp;
 
-**Super-Resolution**
+### Super-Resolution
 
-- [Enhanced Deep Residual Networks for Single Image Super-Resolution - 김희원님 (video)](https://youtu.be/OMIqkn2DCUk)
+#### 2014
 
-&nbsp;
+- [PR-004: Image Super-Resolution Using Deep Convolutional Networks - 전태균님 (video)](https://youtu.be/1jGr_OFyfa0) / [정리한 것](./note/PR-004%20Image%20Super-Resolution%20Using%20Deep%20Convolutional%20Networks%20-%20전태균님/README.md) - SRCNN
 
-**etc**
 
-- [Batch Normalization - 라온피플](http://blog.naver.com/PostView.nhn?blogId=laonple&logNo=220808903260&categoryNo=22&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)
+#### 2016
 
-- [자주 인용되었던 딥러닝 논문 리스트 - 엄태웅님](https://github.com/terryum/awesome-deep-learning-papers)
+- [Accurate Image Super-Resolution using Very Deep Convolutional Networks - 전태규님 (video)]() / [정리한 것](./note/Accurate%20Image%20Super-Resolution%20using%20Very%20Deep%20Convolutional%20Networks%20(2016)%20-%20전태균님/README.md) - VDSR
 
-- [Stanford CS231n (2017) 한글자막](https://github.com/insurgent92/CS231N_17_KOR_SUB)
+#### 2017
 
-&nbsp;
-
-**Style Transfer**
-
-- [PR-007: Deep Photo Style Transfer - 김승일님(video)](https://youtu.be/YF6nLVDlznE)
+- [Enhanced Deep Residual Networks for Single Image Super-Resolution - 김희원님 (video)](https://youtu.be/OMIqkn2DCUk) - EDSR / MDSR
 
 &nbsp;
 
-**CS231n CNN for Visual Recognition 한글번역 - AI Korea**
+### Style Transfer
+
+- [PR-007: Deep Photo Style Transfer - 김승일님 (video)](https://youtu.be/YF6nLVDlznE)
+
+- [Deep Photo Transfer (2017) - Fujun Luan et al. (번역)](https://github.com/bactoria/Paper-Translation/blob/master/papers/Deep%20Photo%20Style%20Transfer/README.md)
+
+&nbsp;
+
+### CS231n CNN for Visual Recognition 한글번역 - AI Korea**
 
 - [CNN: 구조, Convolution / Pooling Layers](http://aikorea.org/cs231n/convolutional-networks/)
 
@@ -80,6 +83,18 @@ Image Segmentation, 18 May 2015 - 모두의연구소](https://modulabs-biomedica
 ### Object Detection
 
 - [Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD - ANKIT SACHAN](http://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)
+
+&nbsp;
+
+### etc
+
+- [Batch Normalization - 라온피플](http://blog.naver.com/PostView.nhn?blogId=laonple&logNo=220808903260&categoryNo=22&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)
+
+- [자주 인용되었던 딥러닝 논문 리스트 - 엄태웅님](https://github.com/terryum/awesome-deep-learning-papers)
+
+- [Stanford CS231n (2017) 한글자막](https://github.com/insurgent92/CS231N_17_KOR_SUB)
+
+
 
 &nbsp;
 &nbsp;
