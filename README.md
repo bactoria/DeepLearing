@@ -50,12 +50,12 @@ Image Segmentation, 18 May 2015 - 모두의연구소](https://modulabs-biomedica
 
 #### 2014
 
-- [PR-004: Image Super-Resolution Using Deep Convolutional Networks - 전태균님 (video)](https://youtu.be/1jGr_OFyfa0) / [정리한 것](./note/PR-004%20Image%20Super-Resolution%20Using%20Deep%20Convolutional%20Networks%20-%20전태균님/README.md) - SRCNN
+- [PR-004: Image Super-Resolution Using Deep Convolutional Networks - 전태균님 (video)](https://youtu.be/1jGr_OFyfa0) / [정리한 것](./note/PR-004%20Image%20Super-Resolution%20Using%20Deep%20Convolutional%20Networks%20-%20전태균님/README.md) - SRCNN (SR에 딥러닝을 최초로 적용)
 
 
 #### 2016
 
-- [Accurate Image Super-Resolution using Very Deep Convolutional Networks - 전태규님 (video)]() / [정리한 것](./note/Accurate%20Image%20Super-Resolution%20using%20Very%20Deep%20Convolutional%20Networks%20(2016)%20-%20전태균님/README.md) - VDSR
+- [Accurate Image Super-Resolution using Very Deep Convolutional Networks - 전태규님 (video in PR-004)]() / [정리한 것](./note/Accurate%20Image%20Super-Resolution%20using%20Very%20Deep%20Convolutional%20Networks%20(2016)%20-%20전태균님/README.md) - VDSR (very deep하게 쌓은 레이어들 + Residual)
 
 #### 2017
 
@@ -65,9 +65,10 @@ Image Segmentation, 18 May 2015 - 모두의연구소](https://modulabs-biomedica
 
 ### Style Transfer
 
-- [PR-007: Deep Photo Style Transfer - 김승일님 (video)](https://youtu.be/YF6nLVDlznE)
+#### 2017
 
-- [Deep Photo Transfer (2017) - Fujun Luan et al. (번역)](https://github.com/bactoria/Paper-Translation/blob/master/papers/Deep%20Photo%20Style%20Transfer/README.md)
+- [PR-007: Deep Photo Style Transfer - 김승일님 (video)](https://youtu.be/YF6nLVDlznE) / [정리한 것]() / [번역](https://github.com/bactoria/Paper-Translation/blob/master/papers/Deep%20Photo%20Style%20Transfer/README.md) / [(Gram Matrix 설명)](https://blog.naver.com/PostView.nhn?blogId=atelierjpro&logNo=221180412283&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)
+
 
 &nbsp;
 
