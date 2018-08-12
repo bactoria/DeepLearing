@@ -91,6 +91,8 @@ Image Segmentation, 18 May 2015 - 모두의연구소](https://modulabs-biomedica
 
 - [Batch Normalization - 라온피플](http://blog.naver.com/PostView.nhn?blogId=laonple&logNo=220808903260&categoryNo=22&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)
 
+- [PR-021: Batch Normalization (language: korean)](https://youtu.be/TDx8iZHwFtM)
+
 - [자주 인용되었던 딥러닝 논문 리스트 - 엄태웅님](https://github.com/terryum/awesome-deep-learning-papers)
 
 - [Stanford CS231n (2017) 한글자막](https://github.com/insurgent92/CS231N_17_KOR_SUB)
